@@ -1,0 +1,22 @@
+body
+{
+	font-family: times;
+	background-color: rgb(188, 177, 176);
+}
+
+h1
+{
+	color: white;
+	text-align: center;
+	font-family: fantasy;
+	background-color: darkcyan;
+}
+
+h2
+{
+	font-family: fantasy;
+	text-align: center;
+	color: darkcyan;
+	background-color: black ;
+
+}
